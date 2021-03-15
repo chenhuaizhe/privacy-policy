@@ -30,7 +30,7 @@ You are responsible for safeguarding the password that you use to access the Ser
 You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
 ### Intellectual Property
 
-The Service and its original content, features and functionality are and will remain the exclusive property of Pushups - Squat and its licensors. The Service is protected by copyright, trademark, and other laws of both the Germany and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Pushups - Squat.
+The Service and its original content, features and functionality are and will remain the exclusive property of Pushups - Squat and its licensors. The Service is protected by copyright, trademark, and other laws of both the China and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Pushups - Squat.
 Links To Other Web Sites Our Service may contain links to third-party web sites or services that are not owned or controlled by Pushups - Squat.
 Pushups - Squat has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Pushups - Squat shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
 We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
@@ -45,7 +45,7 @@ Your use of the Service is at your sole risk. The Service is provided on an "AS 
 Pushups - Squat its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
 ### Governing Law
 
-These Terms shall be governed and construed in accordance with the laws of Saxony, Germany, without regard to its conflict of law provisions.
+These Terms shall be governed and construed in accordance with the laws of China, without regard to its conflict of law provisions.
 Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.
 ### Changes
 
@@ -54,4 +54,4 @@ By continuing to access or use our Service after those revisions become effectiv
 ### Contact Us
 
 If you have any questions about these Terms, please contact us.
-Last updated: Feb 13, 2020
+Last updated: Mar 15, 2021
