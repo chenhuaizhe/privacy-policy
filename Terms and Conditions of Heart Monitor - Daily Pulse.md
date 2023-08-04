@@ -1,4 +1,8 @@
 ### Terms and Conditions
+
+#### Terms of Use (EULA)
+We are using the standard Apple Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
 These Terms and Conditions ("Terms", "Terms and Conditions") govern your relationship with Heart Monitor - Daily Pulse mobile application (the "Service") operated by Heart Monitor - Daily Pulse ("us", "we", or "our").
 Please read these Terms and Conditions carefully before using our Heart Monitor - Daily Pulse mobile application (the "Service").
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
