@@ -55,3 +55,7 @@ By continuing to access or use our Service after those revisions become effectiv
 
 If you have any questions about these Terms, please contact us.
 Last updated: Mar 15, 2021
+
+### Terms of Use (EULA)
+
+We are using the standard Apple Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
